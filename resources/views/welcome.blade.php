@@ -50,7 +50,7 @@
                         <div class="p-6">
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Please, install <a href="https://laravel.com/docs/8.x/starter-kits#laravel-breeze">Laravel Breeze</a> to use the project.
+                                    Please, finish a <a href="https://laravel.com/docs/8.x/starter-kits#laravel-breeze" target="_blank">Laravel Breeze</a> installation to use the project.
                                 </div>
                             </div>
                         </div>
